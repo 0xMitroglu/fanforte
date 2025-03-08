@@ -1,4 +1,4 @@
-# 🌐 Portfolio
+# 🌐 FanForte Agency
 
 ![Project Screenshot](https://i.imgur.com/BUptuT4.png)
 
@@ -8,7 +8,7 @@
 
 ## 📖 About
 
-This is my personal portfolio website showcasing my web development skills, projects, and experience. It features a clean, responsive design and smooth animations to create a great user experience.
+FanForte is an **OnlyFans management agency** that helps creators **grow their audience, maximize earnings, and manage content efficiently**. The website provides an overview of our services, case studies, and a streamlined onboarding process for new creators.
 
 ## 🎨 Tech Stack
 
