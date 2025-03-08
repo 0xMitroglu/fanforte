@@ -21,7 +21,7 @@ This is my personal portfolio website showcasing my web development skills, proj
 
 ```bash
 # Clone the repo
-git clone https://github.com/0xMitroglu/portolio.git
+git clone https://github.com/0xMitroglu/fanforte.git
 
 # Navigate to the project folder
 cd portfolio
